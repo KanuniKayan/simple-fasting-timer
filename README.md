@@ -11,8 +11,8 @@ The simple interface allows for instant understanding of this app's functionalit
 
 ![Showing app](/screenshots/screenshot%202.png)
 ![Changing goal time](/screenshots/screenshot%201.png)
-<br>
-Music buttons:<br>
+<br><br>
+### Music buttons
 ![Music on](/screenshots/screenshot%203.png)
 ![Music off](/screenshots/screenshot%204.png)
 
