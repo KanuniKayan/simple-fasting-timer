@@ -4,15 +4,29 @@ This Android app is a simple timer that helps with keeping track of your fasting
 
 The simple interface allows for instant understanding of this app's functionality.
 
-### Nav bar: *[Screenshots](#screenshots) - [Guide](#guide) - [Resources](#resources)*
+### Nav bar: *[Screenshots](#screenshots) - [Guide](#guide) - [Setup](#setup) - [Resources](#resources)*
 
 ---
 ### Screenshots
 
 ![Showing app](/screenshots/screenshot%202.png)
 ![Changing goal time](/screenshots/screenshot%201.png)
+<br>
+Music buttons:<br>
 ![Music on](/screenshots/screenshot%203.png)
 ![Music off](/screenshots/screenshot%204.png)
+
+---
+
+### Setup
+
+The APK to install this app is located in:
+```
+./app/release/app-release.apk
+```
+
+Download this to an android phone and install it.
+Keep in mind that this app is not on any app-store.
 
 ---
 
