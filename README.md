@@ -4,6 +4,16 @@ This Android app is a simple timer that helps with keeping track of your fasting
 
 The simple interface allows for instant understanding of this app's functionality.
 
+### Nav bar: *[Screenshots](#screenshots) - [Guide](#guide) - [Resources](#resources)*
+
+---
+### Screenshots
+
+![Showing app](/screenshots/screenshot%202.png)
+![Changing goal time](/screenshots/screenshot%201.png)
+![Music on](/screenshots/screenshot%203.png)
+![Music off](/screenshots/screenshot%204.png)
+
 ---
 
 ### Guide
